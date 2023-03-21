@@ -6,6 +6,7 @@ class Views
     {
         $output = '';
         extract($vars);
+
         try {
             \ob_start();
             include ROOT.$template;

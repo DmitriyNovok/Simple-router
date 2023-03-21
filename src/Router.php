@@ -45,6 +45,7 @@ class Router
                 break;
             }
         }
+
         return self::executeAction();
     }
 
