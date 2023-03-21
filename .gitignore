@@ -1,0 +1,18 @@
+composer
+composer.phar
+composer.lock
+node_modules/
+vendor/
+tools/
+
+# Editor directories and files
+.DS_Store
+.idea
+.idea/
+.vscode
+.vscode/
+.history
+.history/
+*.suo
+*.ntvs*
+*.njsproj
